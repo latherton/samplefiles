@@ -1,0 +1,9 @@
+{
+  "release": "20260908-onboarding-v1",
+  "archive": "fleet-evidence-onboarding-v1.zip",
+  "sha256": "a9f4c2e31baf8d52fd31ad3b9006e011228b7dae2c6239f4ba19b55d0fe5fa56",
+  "bytes": 313952,
+  "files": 86,
+  "synthetic_only": true,
+  "independent_real_histories_supplied": false
+}
