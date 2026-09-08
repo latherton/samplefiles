@@ -1,0 +1,11 @@
+{
+  "release": "20260908-navigation-v1",
+  "archive": "fleet-evidence-navigation-v1.zip",
+  "sha256": "60898c20e228c878ce495e0e73b0ab7d20269ff3563fd516364c6ade6e39f578",
+  "bytes": 376772,
+  "files": 94,
+  "synthetic_demo": true,
+  "imported_equipment_prediction": "observation_only",
+  "independent_real_histories_supplied": false,
+  "updater_sha256": "8aad8418b64aa0fd2e2eb5b386e613b7731cb607eb347e88eccb342342d56eca"
+}
