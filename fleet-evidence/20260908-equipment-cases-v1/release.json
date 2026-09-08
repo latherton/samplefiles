@@ -1,0 +1,11 @@
+{
+  "release": "20260908-equipment-cases-v1",
+  "archive": "fleet-evidence-equipment-cases-v1.zip",
+  "sha256": "44711a42be7844fc0c943e99661f63dc76a13e03d464596d5b854a2fbc42846d",
+  "bytes": 357517,
+  "files": 92,
+  "synthetic_demo": true,
+  "imported_equipment_prediction": "observation_only",
+  "independent_real_histories_supplied": false,
+  "updater_sha256": "95a4d99b83d087f8fa4573962240ba584eaaf36d297e664c18f0cfa84dc3f877"
+}
