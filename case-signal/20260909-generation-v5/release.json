@@ -1,0 +1,36 @@
+{
+  "release": "20260909-generation-v5",
+  "source_only": true,
+  "base_release": "20260909-v1",
+  "base_archive_sha256": "7552c1f8ac4824a2edc251cbc8df1dd049e6e5f9297830d51f0de93845cde28b",
+  "generation_contract": "case-synopsis-hybrid-v5",
+  "runtime_replacements": [
+    "summaries.py",
+    "static/app.js"
+  ],
+  "files": [
+    {
+      "path": "summaries.py",
+      "bytes": 18223,
+      "sha256": "415a0543e721686257a335686c70add22c5718210be9542302232f3102b154c6"
+    },
+    {
+      "path": "static/app.js",
+      "bytes": 44149,
+      "sha256": "d45673052c7601f39d184dfeed426ce5e9daa0af568feaf76a23bd91742347ca"
+    },
+    {
+      "path": "apply_generation_patch.py",
+      "bytes": 13422,
+      "sha256": "e2fb1ba024fa6e02558ae05dff71bb127768d4cb4c36bce65e8b2bca38ad6931"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2134,
+      "sha256": "8e3018ec806e69722686ab0796185fe24a20b8c77c8c4f83399a2421de63b258"
+    }
+  ],
+  "archive": "case-signal-20260909-generation-v5.zip",
+  "archive_bytes": 24743,
+  "archive_sha256": "75f15da3f9c10e46be31300299f760909bc3ad8e51a00ded4ab4406a47a79102"
+}
