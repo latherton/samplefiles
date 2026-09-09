@@ -1,0 +1,74 @@
+{
+  "release": "20260909-v1",
+  "source_only": true,
+  "files": [
+    {
+      "path": "server.py",
+      "bytes": 14560,
+      "sha256": "39e5944ac1cac84e0070daf70a71072d68580c3576cce62c03892026ac2d53b1"
+    },
+    {
+      "path": "kd_client.py",
+      "bytes": 9554,
+      "sha256": "334c144fd5cd99c4a1d77d2302470d2889e6fad2a1b4dbc1ccb58a5dc9c897c9"
+    },
+    {
+      "path": "model.py",
+      "bytes": 6229,
+      "sha256": "57c08c402d15ffc6734baa6d33836b53167f84d114c07ee1c64b7b9f5307ff77"
+    },
+    {
+      "path": "sources.py",
+      "bytes": 20114,
+      "sha256": "4bbced3bbb3edbd9ecb0f84ee5090bd66c1f4cf4365906e318b918f38f54bee5"
+    },
+    {
+      "path": "store.py",
+      "bytes": 2362,
+      "sha256": "4852d1bca1cfc94e5d2ca85ff9ca4c16133546598bcce58306c06954c56cf2a6"
+    },
+    {
+      "path": "indexer.py",
+      "bytes": 10663,
+      "sha256": "d61a958d4b734a9fa205917795d78a76ba29446f1d5676edb73962e1323c10f9"
+    },
+    {
+      "path": "summaries.py",
+      "bytes": 12230,
+      "sha256": "aea33e2a350990a1fd6c10729a8b0cd5fec40534eed89e5b2c66ff93dbcc334f"
+    },
+    {
+      "path": "CONNECTORS.md",
+      "bytes": 9020,
+      "sha256": "2f0e228ff7f13b46f5bc9f43eb2366f9675cc2a74a8f19b6966181455c72622c"
+    },
+    {
+      "path": "static/index.html",
+      "bytes": 647,
+      "sha256": "d9d390e3f695b26d4cf223f1fbea2aa432322e6c80076c75fb7b380b90fff3c8"
+    },
+    {
+      "path": "static/styles.css",
+      "bytes": 30507,
+      "sha256": "062acd9a166fd8ddf056cd58a6914be6e5037b50ef981620560299d8d8fb1e1f"
+    },
+    {
+      "path": "static/app.js",
+      "bytes": 43255,
+      "sha256": "fda39f377b9c4e023d45f32b24c07cc7c80f0b2bde9e74daf30b2b87cd92cbf9"
+    },
+    {
+      "path": "fixtures/cases.json",
+      "bytes": 14448,
+      "sha256": "0627c90b642db26d7ba8680f5c33cf3ad8e39cda5c2f2e9dff6eabbce79f9070"
+    },
+    {
+      "path": "config/appworks.example.json",
+      "bytes": 1039,
+      "sha256": "62ddf077f06719653c3ff3d6aaeafb72a758ffdf53d33b0cc076e88816fb533e"
+    }
+  ],
+  "archive_bytes": 54559,
+  "archive_sha256": "7552c1f8ac4824a2edc251cbc8df1dd049e6e5f9297830d51f0de93845cde28b",
+  "deployer_sha256": "2d4532a610ee29b3aac68fa489e184852387ea3527b9774bb4d4df7788e285c7"
+}
